@@ -1,8 +1,8 @@
 ### 你好 👋 我是何春辉
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hechunhuis)
-[![wechat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://github.com/hechunhuis/hechunhuis/blob/main/images/wechat.jpg)
 [![GitLib](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://github.com/hechunhuis)
+[![wechat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://github.com/hechunhuis/hechunhuis/blob/main/images/wechat.jpg)
 
 欢迎来到我的Github页面! 我是何春辉，目前正在玩命敲代码中！
 
