@@ -2,7 +2,7 @@
 ### 我是何春辉
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/hechunhuis)
-[![email](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](hechunhui_email@163.com)
+[![email](https://img.shields.io/badge/-email-c14438?style=flat&logo=email&logoColor=white)](hechunhui_email@163.com)
 
 欢迎来到我的Github页面! 我是何春辉，目前正在玩命敲代码中！
 
