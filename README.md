@@ -2,7 +2,7 @@
 ### 我是何春辉
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/hechunhuis)
-[![wechat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](18513141637)
+[![wechat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://github.com/hechunhuis/hechunhuis/blob/main/images/wechat.jpg)
 
 欢迎来到我的Github页面! 我是何春辉，目前正在玩命敲代码中！
 
