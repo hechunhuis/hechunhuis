@@ -2,7 +2,7 @@
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hechunhuis)
 [![GitLib](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://github.com/hechunhuis)
-[![wechat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://github.com/hechunhuis/hechunhuis/blob/main/images/wechat.jpg)
+[![wechat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://a1.qpic.cn/psc?/V12mAuh30leDUp/ruAMsa53pVQWN7FLK88i5rO4KazKI8*kfYbtUCimWM.WkrJvEGY32ktzlXlpJ6rgulx89d6P1piuD.RWfKoxKVCWq0sT*nDkTQUMo6Xe16o!/c&ek=1&kp=1&pt=0&bo=AAIAAgACAAIWECA!&t=5&tl=3&vuin=1920851652&tm=1663689600&dis_t=1663691310&dis_k=067b1cbb30aef898bc781dcc9f8ccd05&sce=60-2-2&rf=0-0)
 
 欢迎来到我的Github页面! 我是何春辉，目前正在玩命敲代码中！
 
