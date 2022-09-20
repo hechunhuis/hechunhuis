@@ -1,5 +1,5 @@
 ### Hi there 👋
-![何春辉的Github统计](https://github-readme-stats.vercel.app/api?username=hechunhuis&show_icons=true&theme=tokyonight)
+![hechunhui's Github stat](https://github-readme-stats.vercel.app/api?username=hechunhuis&show_icons=true&theme=tokyonight)
 <!--
 **hechunhuis/hechunhuis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
