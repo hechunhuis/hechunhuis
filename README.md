@@ -7,7 +7,7 @@
 
 欢迎来到我的Github页面! 我是何春辉，目前正在玩命敲代码中！
 
-<img align="right" alt="主页图" src="https://github.com/hechunhuis/hechunhuis/blob/main/index.jpg" width="50%" height="auto" />
+<img align="right" alt="主页图" src="https://a1.qpic.cn/psc?/V12mAuh30leDUp/ruAMsa53pVQ…8db6ded8960c573a23cd9e35d9848b4&sce=60-2-2&rf=0-0" width="50%" height="auto" />
 
 #### 🌱 我目前正在做的事情:
 
