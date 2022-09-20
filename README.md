@@ -1,6 +1,4 @@
-### 你好 👋
-
-### 我是何春辉
+### 你好 👋 我是何春辉
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/hechunhuis)
 [![wechat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://github.com/hechunhuis/hechunhuis/blob/main/images/wechat.jpg)
