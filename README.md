@@ -31,12 +31,12 @@
 <code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/jquery-1.svg"></code>
 <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/redis.svg"></code>
 <code><img width="3%" src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg"></code>
-<br />
 <code><img width="15%" src="https://cdn.worldvectorlogo.com/logos/elasticsearch-logo.svg"></code>
+<br />
 <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/elastic-logstash.svg"></code>
 <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/elastic-kibana.svg"></code>
 <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg"></code>
-<br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/sourcetree-1.svg"></code>
+<br />
 <code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/centos.svg"></code></p>
