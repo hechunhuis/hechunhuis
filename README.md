@@ -20,25 +20,22 @@
 
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=hechunhuis&show_icons=true&hide_border=true" />
-
-我正在使用：[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
-
-##### ::
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code> <img width="10%" src="https://cdn.worldvectorlogo.com/logos/docker-3.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+语言：
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)]
+[![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)]
 <br />
-<code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/javascript-2.svg"></code>
-<code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/jquery-1.svg"></code>
-<code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/redis.svg"></code>
-<code><img width="3%" src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg"></code>
-<code><img width="15%" src="https://cdn.worldvectorlogo.com/logos/elasticsearch-logo.svg"></code>
+[![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)]
+[![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)]
+[![Srping](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)]
 <br />
-<code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/elastic-logstash.svg"></code>
-<code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/elastic-kibana.svg"></code>
-<code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/sourcetree-1.svg"></code>
+[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]
+[![PostgreSQL](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)]
+[![Redis](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]
 <br />
-<code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/centos.svg"></code></p>
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)]
+[![SourceTree](https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white)]
+<br />
+[![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]
+</p>
