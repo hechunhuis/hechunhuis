@@ -1,10 +1,10 @@
-### 你好 👋 我是何春辉
+### 您好 👋 我是何春辉
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hechunhuis)
 [![wechat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://github.com/hechunhuis/hechunhuis/blob/main/wechat.jpg)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://github.com/hechunhuis/hechunhuis/blob/main/tiktok.jpg)
 <br />
-欢迎来到我的Github页面! 我是何春辉。
+欢迎来到我的Github页面! 
 
 <img align="right" alt="主页图" src="https://a1.qpic.cn/psc?/V12mAuh30leDUp/ruAMsa53pVQWN7FLK88i5q9ATgBiD.bnMnL4nkXYU2x5NzCx7lkdD.s2q6c8TRZywQ9onKd6b33xYt5owBRuH*3*oIZ.g80NKsx**WgO178!/c&ek=1&kp=1&pt=0&bo=AAWJAwAFiQMWECA!&tl=1&vuin=1920851652&tm=1663689600&dis_t=1663690172&dis_k=18db6ded8960c573a23cd9e35d9848b4&sce=60-2-2&rf=0-0" width="50%" height="auto" />
 
