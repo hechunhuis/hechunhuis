@@ -21,6 +21,9 @@
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=hechunhuis&show_icons=true&hide_border=true" />
 
+我正在使用：[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
+
+##### ::
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code> <img width="10%" src="https://cdn.worldvectorlogo.com/logos/docker-3.svg"></code>
