@@ -1,5 +1,5 @@
 ### 您好 👋 我是何春辉
-
+#### 无论何时都应该有一个小白的心态
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hechunhuis)
 [![wechat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://github.com/hechunhuis/hechunhuis/blob/main/wechat.jpg)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://github.com/hechunhuis/hechunhuis/blob/main/tiktok.jpg)
