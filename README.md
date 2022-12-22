@@ -4,6 +4,7 @@
 [![wechat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://github.com/hechunhuis/hechunhuis/blob/main/wechat.jpg)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://github.com/hechunhuis/hechunhuis/blob/main/tiktok.jpg)
 <br />
+CSDN：https://blog.csdn.net/weixin_45607741
 欢迎来到我的Github页面! 
 
 <img align="right" alt="主页图" src="https://github.com/hechunhuis/hechunhuis/blob/main/psc.jpg" width="50%" height="auto" />
